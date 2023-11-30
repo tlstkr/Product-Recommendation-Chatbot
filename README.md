@@ -14,7 +14,7 @@ This repository contains code decision for the recommendation task for e-commerc
 
 `app/datasets` folder contains 2 files: 
 - articles.csv is the original dataset of garments in the stock
-- extended_articles.csv contains preprocessed data from articles.csv. It is extended with material type, seasonality and occasion features
+- extended_articles.csv contains preprocessed data from articles.csv. It is extended with material type, seasonality and occasion features as well as saved text and image embeddings
 
 ## Set up
 
