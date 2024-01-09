@@ -1,6 +1,6 @@
-# Digital Genius Tech Task
-Create a Product Recommendation engine based on product images and a single customer message. Incorporate an understanding of images as well as text for multi- modal input. Focus on understanding/processing images and text. You can use Azure OpenAI access for text understanding if that suits your solution.  
-This repository contains code decision for the recommendation task for e-commerce.
+# Product Recommendation Chatbot
+
+This repository contains code decision for the Product Recommendation engine based on product images and a single customer message for e-commerce.
 
 **Requirements**:
 
